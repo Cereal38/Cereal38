@@ -1,6 +1,6 @@
 ### Hey there ☕
 
-```javascript
+```typescript
 const guillaume = {
   code: [Typescript, HTML, CSS, Python, Java, C],
   tools: [React, NextJS, Linux, Docker, Git, SQL],
