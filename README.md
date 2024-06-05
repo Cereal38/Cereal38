@@ -10,6 +10,6 @@ const guillaume = {
 
 <div>
   <img height=150 align="center" src="https://github-readme-stats-nine-alpha-46.vercel.app/api?username=Cereal38&hide=stars&show_icons=true&rank_icon=percentile&theme=transparent&border_color=fefefe&text_color=f0f0f0&title_color=fefefe" />
-  <div width="20px" height="20px" background-color="red" />
+  <div />
   <img height=150 align="center" src="https://github-readme-stats-nine-alpha-46.vercel.app/api/top-langs/?username=Cereal38&langs_count=8&layout=compact&theme=transparent&border_color=fefefe&text_color=f0f0f0&title_color=fefefe" />
 </div>
