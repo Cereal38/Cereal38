@@ -1,6 +1,4 @@
 ### Hi there 👋, my name is Guillaume Brun
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Cereal38)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/g-brun/)  
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cereal38&hide=stars&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cereal38&hide=stars&show_icons=true&include_all_commits=true&rank_icon=percentile&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
