@@ -8,4 +8,4 @@ const guillaume = {
 }
 ```
 
-[![Anurag's GitHub stats](https://github-readme-stats-nine-alpha-46.vercel.app/api?username=Cereal38&hide=stars&show_icons=true&rank_icon=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-nine-alpha-46.vercel.app/api?username=Cereal38&hide=stars&show_icons=true&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
