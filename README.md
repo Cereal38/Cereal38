@@ -3,7 +3,7 @@
 ```typescript
 const guillaume = {
   code: [Typescript, HTML, CSS, Python, Java, C],
-  tools: [React, NextJS, Linux, Docker, Git, SQL],
+  tools: [React, NextJS, Tailwind, Linux, Docker, Git, SQL],
   languages: [French, English]
 }
 ```
