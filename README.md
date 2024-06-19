@@ -2,7 +2,7 @@
 
 ```typescript
 const guillaume = {
-  code: [Typescript, HTML, CSS, Python, Java, C],
+  code: [JS, TS, HTML, CSS, Python, Java, C],
   tools: [React, NextJS, Tailwind, Linux, Docker, Git, SQL],
   languages: [French, English]
 }
